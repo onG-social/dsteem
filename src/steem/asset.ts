@@ -118,6 +118,8 @@ export class Asset {
             case 'STEEM':
             case 'SBD':
                 return 3
+            case 'SOMEE':
+                return 3
             case 'VESTS':
                 return 6
         }
